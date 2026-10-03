@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of matteociaroni/flarum-old-content.** Not for installation: use [Packagist](https://packagist.org/packages/matteociaroni/flarum-old-content) or the [upstream repository](https://github.com/matteociaroni/flarum-old-content).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/matteociaroni-flarum-old-content/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8.0`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/matteociaroni-flarum-old-content/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-07-11 | `^1.8.0` | [Browse](https://github.com/flarchive/matteociaroni-flarum-old-content/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/matteociaroni-flarum-old-content.json](https://github.com/flarchive/archive-index/blob/main/packages/matteociaroni-flarum-old-content.json)
 
